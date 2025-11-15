@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Studying in Korea Univ. Now.  
-Interested in C++, Python, ML.
-
+- 🔭 I’m currently studying on Korea Univ. (Major : Industrial Engeneering & Electrical Engeneering)
+- 🌱 I’m currently learning ML.
+- 📫 How to reach me: Email>siyeon0486@naver.com
 
 <!--
 **siyeon0486/siyeon0486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
